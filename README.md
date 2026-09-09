@@ -5,3 +5,5 @@ Part of the Fullstack AI Engineering course.
 A project for learning Git fundamentals.
 
 Built by the Mctaba Academy team.
+
+This line is a mistake
